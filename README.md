@@ -5,7 +5,7 @@
 # Установка
 
 ## Для использования библиотеки не требуется установка. Вы можете подключить её напрямую через CDN:
-'''
+(`
 <script type="module">
   import {
     formatDateToRU,
@@ -17,4 +17,4 @@
   console.log(formatDateToRU(date)); // ДД/ММ/ГГГГ ЧЧ:ММ
   console.log(formatDateToUS(date)); // ММ-ДД-ГГГГ ЧЧ:ММ
 </script>
-'''
+`)
