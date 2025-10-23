@@ -10,7 +10,7 @@
   import {
     formatDateToRU,
     formatDateToUS,
-  } from "https://cdn.jsdelivr.net/gh/alexeirybak/JS-course@main/lib/formatDate/formatDate.js";
+  } from "https://cdn.jsdelivr.net/gh/romanbarinov84/Library-formated-date@main/lib/formatDate/formatDate.js";
 
   // Пример использования
   const date = new Date();
